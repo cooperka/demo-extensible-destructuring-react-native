@@ -26,3 +26,8 @@ the app fails to start in the iOS simulator with the error
 On my full app, I don't even see this error and instead it simply shows an empty white screen
 and the app never connects to the HMR server (normally the console message shows
 `[Hot Module Replacement] Client connected` when Hot Reloading is enabled).
+
+## Issue
+
+I've opened an issue [here](https://github.com/vacuumlabs/babel-plugin-extensible-destructuring/issues/14)
+for discussion.
