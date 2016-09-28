@@ -1,0 +1,3 @@
+rootProject.name = 'ExtensibleDestructuringReactNative'
+
+include ':app'
