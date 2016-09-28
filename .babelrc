@@ -3,6 +3,6 @@
     "react-native"
   ],
   "plugins" : [
-    ["extensible-destructuring", { "mode": "optin", "impl": "safe" }]
+    ["extensible-destructuring", { "mode": "optout", "impl": "safe" }]
   ]
 }
